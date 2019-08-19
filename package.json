@@ -3,8 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/styled": "^10.0.15",
+    "devicons": "^1.8.0",
+    "lodash.shuffle": "^4.2.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
+    "react-flipcard-2": "^0.3.2",
     "react-scripts": "3.1.1"
   },
   "scripts": {
@@ -27,5 +31,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {}
 }
